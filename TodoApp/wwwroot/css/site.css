@@ -1,0 +1,74 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+  color: white;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #009999;
+    text-align: center;
+    color: white;
+    padding: 40px;
+}
+
+#labelt {
+    font-size: 40px;
+    padding: 20px;
+    border-bottom: 1.5px solid white;
+}
+
+#new {
+    font-size: 20px;
+    padding: 10px;
+}
+
+#add {
+    background-color: #80cccc;
+    border: 1px solid white;
+    color: white;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+
+.completeBtn {
+    background-color: #80cccc;
+    border: 1px solid white;
+    color: white;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+    .completeBtn:hover {
+        background-color: #66c2c2;
+    }
+
+.removeBtn {
+    background-color: #bf99e6;
+    border: 1px solid white;
+    color: white;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+.removeBtn:hover {
+    background-color: #ad7acc
+}
+
+.task {
+    list-style-position: inside;
+}

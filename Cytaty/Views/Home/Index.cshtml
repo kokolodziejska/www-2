@@ -1,0 +1,19 @@
+﻿@model FavoriteQuotesApp.Models.QuoteModel
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ulubione Cytaty</title>
+</head>
+<body>
+    <h1 id="labelt" >Ulubione Cytaty</h1>
+    <div>
+        <input type="text" id="quoteInput" placeholder="Dodaj cytat" />
+        <button onclick="addQuote()">Dodaj</button>
+    </div>
+    <ul id="quotesList"></ul>
+
+    <script src="~/js/quotes.js"></script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+﻿@model List<string>
+
+<h1 id="label">Todo List</h1>
+
+<form asp-action="Add" method="post">
+    <input type="text" name="task" placeholder="Enter a task" />
+    <button type="submit">Add Task</button>
+</form>
+
+<ul>
+    @if (Model != null && Model.Count > 0)
+    {
+        foreach (var task in Model)
+        {
+            <li>
+                @task
+                <form asp-action="Remove" method="post" style="display:inline;">
+                    <input type="hidden" name="task" value="@task" />
+                    <button type="submit">Remove</button>
+                </form>
+            </li>
+        }
+    }
+    else
+    {
+        <li>No tasks available.</li>
+    }
+</ul>

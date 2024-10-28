@@ -1,0 +1,33 @@
+﻿@model CalculatorApp.Models.CalculatorModel
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Calculator</title>
+</head>
+<body>
+    <h1 id="label">Prosty kalkulator dodawania</h1>
+
+    <form asp-action="Index" method="post">
+        <div >
+             <label class="liczba" for="Number1">Liczba 1:</label>
+            <input class="numer" type="number" asp-for="Number1" step="0.01" required />
+        </div>
+
+        <div >
+            <label class="liczba" for="Number2">Liczba 2:</label>
+            <input class="numer" type="number" asp-for="Number2" step="0.01" required />
+        </div>
+
+        <div>
+            <button id="dodaj" type="submit">Dodaj</button>
+        </div>
+    </form>
+
+    @if (Model.Result != 0 || (Model.Number1 != 0 && Model.Number2 != 0))
+    {
+        <h2>Wynik: @Model.Result</h2>
+    }
+</body>
+</html>

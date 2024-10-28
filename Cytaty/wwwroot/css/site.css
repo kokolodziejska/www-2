@@ -1,0 +1,65 @@
+body {
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #0a0a9e;
+    color: white;
+}
+#labelt{
+    padding: 20px;
+    border-bottom: 2px dashed white;
+}
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+.quote-form {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+#quoteInput {
+    flex-grow: 1;
+    padding: 5px;
+    background-color: #4747bd;
+    border: 2px solid #ccccff;
+    color: white;  
+}
+
+button {
+    padding: 5px 10px;
+    cursor: pointer;
+    color: white;
+    background-color: #4747bd;
+    border: 2px solid #ccccff;
+}
+
+#quotesList {
+    list-style: none;
+    padding: 10px;
+    color: #0a0a9e;
+}
+
+.quote-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5px 0;
+    padding: 10px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+    .quote-item span {
+        flex-grow: 1;
+    }
+
+    .quote-item button {
+        margin-left: 5px;
+        background-color: #5252c2;
+        color: white;
+        border: none;
+        border-radius: 3px;
+    }

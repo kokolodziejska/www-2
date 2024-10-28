@@ -1,0 +1,86 @@
+﻿@model List<TodoApp.Models.TodoItem>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TODO List</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <h1 id="labelt">To do:</h1>
+
+    <form id="addTaskForm">
+        <label id="new" for="task">New Task:</label>
+        <input type="text" id="task" required />
+        <button id="add" type="submit">Add</button>
+    </form>
+
+
+    <ul class="task" id="todoList">
+        @foreach (var item in Model)
+        {
+            <li  id="item-@item.Id">
+                @item.Task @if (item.IsCompleted)
+                {
+                    <strong>(Completed)</strong>
+                }
+                <button class="completeBtn" data-id="@item.Id">Complete</button>
+                <button class="removeBtn" data-id="@item.Id">Remove</button>
+            </li>
+        }
+    </ul>
+
+    <script>
+        
+        $('#addTaskForm').submit(function (e) {
+            e.preventDefault();
+            var task = $('#task').val();
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("Add", "Todo")',
+                data: { task: task },
+                success: function (newItem) {
+                    if (newItem) {
+                        $('#todoList').append('<li id="item-' + newItem.id + '">' + newItem.task +
+                            ' <button class="completeBtn" data-id="' + newItem.id + '">Complete</button>' +
+                            ' <button class="removeBtn" data-id="' + newItem.id + '">Remove</button></li>');
+                        $('#task').val('');  
+                    }
+                }
+            });
+        });
+
+  
+        $(document).on('click', '.completeBtn', function () {
+            var id = $(this).data('id');
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("Complete", "Todo")',
+                data: { id: id },
+                success: function (completedItem) {
+                    if (completedItem) {
+                        $('#item-' + completedItem.id).html(completedItem.task + ' <strong>(Completed)</strong>' +
+                            ' <button class="removeBtn" data-id="' + completedItem.id + '">Remove</button>');
+                    }
+                }
+            });
+        });
+
+     
+        $(document).on('click', '.removeBtn', function () {
+            var id = $(this).data('id');
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("Remove", "Todo")',
+                data: { id: id },
+                success: function (removedItem) {
+                    if (removedItem) {
+                        $('#item-' + removedItem.id).remove();
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+</html>
