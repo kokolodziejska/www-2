@@ -11,8 +11,24 @@
       "RelativeMoniker": "D:0:0:{10344AC2-FE35-41B0-8B75-F0AF9C622E58}|TodoApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{10344AC2-FE35-41B0-8B75-F0AF9C622E58}|TodoApp.csproj|c:\\users\\sopot\\onedrive\\pulpit\\pw\\semestr 5\\projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\zadanie 2\\todoapp\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10344AC2-FE35-41B0-8B75-F0AF9C622E58}|TodoApp.csproj|solutionrelative:models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10344AC2-FE35-41B0-8B75-F0AF9C622E58}|TodoApp.csproj|c:\\users\\sopot\\onedrive\\pulpit\\pw\\semestr 5\\projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\zadanie 2\\todoapp\\controllers\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10344AC2-FE35-41B0-8B75-F0AF9C622E58}|TodoApp.csproj|solutionrelative:controllers\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{10344AC2-FE35-41B0-8B75-F0AF9C622E58}|TodoApp.csproj|c:\\users\\sopot\\onedrive\\pulpit\\pw\\semestr 5\\projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\zadanie 2\\todoapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10344AC2-FE35-41B0-8B75-F0AF9C622E58}|TodoApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10344AC2-FE35-41B0-8B75-F0AF9C622E58}|TodoApp.csproj|c:\\users\\sopot\\onedrive\\pulpit\\pw\\semestr 5\\projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\zadanie 2\\todoapp\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10344AC2-FE35-41B0-8B75-F0AF9C622E58}|TodoApp.csproj|solutionrelative:controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10344AC2-FE35-41B0-8B75-F0AF9C622E58}|TodoApp.csproj|c:\\users\\sopot\\onedrive\\pulpit\\pw\\semestr 5\\projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\zadanie 2\\todoapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10344AC2-FE35-41B0-8B75-F0AF9C622E58}|TodoApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10344AC2-FE35-41B0-8B75-F0AF9C622E58}|TodoApp.csproj|c:\\users\\sopot\\onedrive\\pulpit\\pw\\semestr 5\\projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\zadanie 2\\todoapp\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,24 +39,8 @@
       "RelativeMoniker": "D:0:0:{10344AC2-FE35-41B0-8B75-F0AF9C622E58}|TodoApp.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10344AC2-FE35-41B0-8B75-F0AF9C622E58}|TodoApp.csproj|c:\\users\\sopot\\onedrive\\pulpit\\pw\\semestr 5\\projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\zadanie 2\\todoapp\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10344AC2-FE35-41B0-8B75-F0AF9C622E58}|TodoApp.csproj|solutionrelative:controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10344AC2-FE35-41B0-8B75-F0AF9C622E58}|TodoApp.csproj|c:\\users\\sopot\\onedrive\\pulpit\\pw\\semestr 5\\projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\zadanie 2\\todoapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10344AC2-FE35-41B0-8B75-F0AF9C622E58}|TodoApp.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{10344AC2-FE35-41B0-8B75-F0AF9C622E58}|TodoApp.csproj|c:\\users\\sopot\\onedrive\\pulpit\\pw\\semestr 5\\projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\zadanie 2\\todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10344AC2-FE35-41B0-8B75-F0AF9C622E58}|TodoApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10344AC2-FE35-41B0-8B75-F0AF9C622E58}|TodoApp.csproj|c:\\users\\sopot\\onedrive\\pulpit\\pw\\semestr 5\\projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\zadanie 2\\todoapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10344AC2-FE35-41B0-8B75-F0AF9C622E58}|TodoApp.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10344AC2-FE35-41B0-8B75-F0AF9C622E58}|TodoApp.csproj|c:\\users\\sopot\\onedrive\\pulpit\\pw\\semestr 5\\projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\zadanie 2\\todoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{10344AC2-FE35-41B0-8B75-F0AF9C622E58}|TodoApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,71 +50,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-28T09:35:25.128Z",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:59:51.045Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\Startup.cs",
               "RelativeDocumentMoniker": "Startup.cs",
               "ToolTip": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\Startup.cs",
               "RelativeToolTip": "Startup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T09:52:54.241Z",
+              "WhenOpened": "2024-10-29T18:59:38.899Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T09:59:11.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBQAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T09:34:50.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\Views\\ToDo\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\ToDo\\Index.cshtml",
               "ToolTip": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\Views\\ToDo\\Index.cshtml",
               "RelativeToolTip": "Views\\ToDo\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T09:34:09.378Z",
+              "WhenOpened": "2024-10-29T19:00:10.041Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T19:00:45.596Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -125,61 +116,80 @@
               "RelativeDocumentMoniker": "Controllers\\TodoController.cs",
               "ToolTip": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\Controllers\\TodoController.cs",
               "RelativeToolTip": "Controllers\\TodoController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwB0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T09:51:43.196Z",
+              "WhenOpened": "2024-10-29T19:01:12.665Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T09:34:06.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T09:33:15.268Z",
+              "WhenOpened": "2024-10-29T19:01:33.212Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T09:34:04.926Z",
+              "DocumentIndex": 3,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\Controllers\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "Controllers\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\Controllers\\SessionExtensions.cs",
+              "RelativeToolTip": "Controllers\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:01:26.038Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-29T19:02:00.607Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\Models\\TodoItem.cs",
+              "RelativeToolTip": "Models\\TodoItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-28T09:34:03.111Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:01:52.569Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\TodoApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T19:00:30.766Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]

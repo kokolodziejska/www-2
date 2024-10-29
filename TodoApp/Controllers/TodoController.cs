@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using TodoApp.Models; // Zmiana na odpowiedni¹ przestrzeñ nazw
+using TodoApp.Models; 
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Http;
 
@@ -20,14 +20,14 @@ public class TodoController : Controller
         var todoList = HttpContext.Session.GetObjectFromJson<List<TodoItem>>("TodoList") ?? new List<TodoItem>();
         var newItem = new TodoItem
         {
-            Id = todoList.Count + 1,  // Proste generowanie Id
+            Id = todoList.Count + 1,  // Generowanie Id
             Task = task,
             IsCompleted = false
         };
         todoList.Add(newItem);
         HttpContext.Session.SetObjectAsJson("TodoList", todoList);
 
-        return Json(newItem);  // Zwracamy nowy element w formacie JSON
+        return Json(newItem);  // Zwraca nowy element w formacie JSON
     }
 
     // Akcja do oznaczania zadania jako ukoñczone

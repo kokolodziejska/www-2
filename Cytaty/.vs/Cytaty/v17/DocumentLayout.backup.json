@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\Cytaty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{306C6182-7B69-40C4-984C-78EBCD4D6F59}|Cytaty.csproj|c:\\users\\sopot\\onedrive\\pulpit\\pw\\semestr 5\\projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\zadanie 2\\cytaty\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{306C6182-7B69-40C4-984C-78EBCD4D6F59}|Cytaty.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306C6182-7B69-40C4-984C-78EBCD4D6F59}|Cytaty.csproj|c:\\users\\sopot\\onedrive\\pulpit\\pw\\semestr 5\\projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\zadanie 2\\cytaty\\wwwroot\\js\\quotes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{306C6182-7B69-40C4-984C-78EBCD4D6F59}|Cytaty.csproj|solutionrelative:wwwroot\\js\\quotes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306C6182-7B69-40C4-984C-78EBCD4D6F59}|Cytaty.csproj|c:\\users\\sopot\\onedrive\\pulpit\\pw\\semestr 5\\projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\zadanie 2\\cytaty\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{306C6182-7B69-40C4-984C-78EBCD4D6F59}|Cytaty.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306C6182-7B69-40C4-984C-78EBCD4D6F59}|Cytaty.csproj|c:\\users\\sopot\\onedrive\\pulpit\\pw\\semestr 5\\projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\zadanie 2\\cytaty\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{306C6182-7B69-40C4-984C-78EBCD4D6F59}|Cytaty.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306C6182-7B69-40C4-984C-78EBCD4D6F59}|Cytaty.csproj|c:\\users\\sopot\\onedrive\\pulpit\\pw\\semestr 5\\projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\zadanie 2\\cytaty\\controllers\\quotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{306C6182-7B69-40C4-984C-78EBCD4D6F59}|Cytaty.csproj|solutionrelative:controllers\\quotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306C6182-7B69-40C4-984C-78EBCD4D6F59}|Cytaty.csproj|c:\\users\\sopot\\onedrive\\pulpit\\pw\\semestr 5\\projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\zadanie 2\\cytaty\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{306C6182-7B69-40C4-984C-78EBCD4D6F59}|Cytaty.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "quotes.js",
+              "DocumentMoniker": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\Cytaty\\wwwroot\\js\\quotes.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\quotes.js",
+              "ToolTip": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\Cytaty\\wwwroot\\js\\quotes.js",
+              "RelativeToolTip": "wwwroot\\js\\quotes.js",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwDcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-29T23:06:16.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuotesController.cs",
+              "DocumentMoniker": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\Cytaty\\Controllers\\QuotesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QuotesController.cs",
+              "ToolTip": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\Cytaty\\Controllers\\QuotesController.cs",
+              "RelativeToolTip": "Controllers\\QuotesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T23:02:18.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\Cytaty\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\Cytaty\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-29T22:48:25.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\Cytaty\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\Cytaty\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T22:47:15.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\Cytaty\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\Cytaty\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T22:44:33.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\Cytaty\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sopot\\OneDrive\\Pulpit\\pw\\semestr 5\\Projektowanie graficznych interfejs\u00F3w u\u017Cytkownika\\Zadanie 2\\Cytaty\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-29T22:43:33.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
